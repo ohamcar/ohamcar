@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohamcar
-- 👀 I’m inclined towards Quantitative Finance
+- 👀 I’m researching on Python based Equity Analysis 
 - 🌱 I’m currently learning Quant Modeling 
 - 💞️ I’m looking to collaborate on WRDS
 - 📫 How to reach me ojchavan99@gmail.com
